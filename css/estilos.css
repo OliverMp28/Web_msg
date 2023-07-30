@@ -1,0 +1,55 @@
+
+header h1{
+    width: 55%;
+    text-align: center;
+    padding: 0 40px 40px;
+
+    font-family: 'Franklin Gothic Medium';
+  
+    margin: 0 auto;
+    font-size: 2.5rem;
+    color: rgb(154, 29, 29);
+}
+
+#contenedor-registro{
+    margin: auto;
+    width: 200px;
+    height: 400px;
+    border-radius: 10px;
+    border: solid 2px #b41818;
+}
+
+/*------ footer ------------*/
+#pielogo {
+    width: 98%;
+    background-image: url("img/fondo3.png");
+    padding: 1%;
+  }
+  #pielogo > div {
+    width: 90%;
+    margin: 0px auto;
+    background-color: #b5a6d5;
+    border-radius: 10px;
+  }
+  .seccionpie {
+    float: left;
+    width: 27.33%;
+    padding: 2%;
+    height: 9%;
+  }
+  .seccionpie h1 {
+    font: bold 20px Arial, sans-serif;
+  }
+  .seccionpie p {
+    margin-top: 5px;
+    vertical-align:bottom;
+  }
+  .seccionpie a {
+    font: bold 1.1rem Arial, sans-serif;
+    color: #3b3a3a;
+    text-decoration: none;
+  }
+  .seccionpie a span{
+    font: bold 0.8rem Arial, sans-serif;
+    color: #292828;
+  }
